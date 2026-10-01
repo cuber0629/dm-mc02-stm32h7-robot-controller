@@ -1,0 +1,29 @@
+# Keil / MDK generated files
+MDK-ARM/CtrBoard/*.o
+MDK-ARM/CtrBoard/*.d
+MDK-ARM/CtrBoard/*.crf
+MDK-ARM/CtrBoard/*.axf
+MDK-ARM/CtrBoard/*.hex
+MDK-ARM/CtrBoard/*.map
+MDK-ARM/CtrBoard/*.lst
+MDK-ARM/CtrBoard/*.lnp
+MDK-ARM/CtrBoard/*.htm
+MDK-ARM/CtrBoard/*.dep
+MDK-ARM/CtrBoard/*.sct
+MDK-ARM/CtrBoard/ExtDll.iex
+MDK-ARM/Objects/
+MDK-ARM/Listings/
+
+# CMSIS and editor metadata
+.cmsis/
+.eide/
+.vscode/
+MDK-ARM/.cmsis/
+MDK-ARM/.eide/
+MDK-ARM/.vscode/
+
+# User-local IDE files
+*.uvguix.*
+*.uvoptx
+*.bak
+*.tmp
